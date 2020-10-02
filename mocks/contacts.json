@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "id": 6,
+      "firstName": "Dennis",
+      "lastName": "Lager",
+      "username": "Bret",
+      "email": "Karley_Dach@jasper.info",
+      "code": "56as4d56as4",
+      "oib": "4444444444444",
+      "phone": "+385147793"
+    },
+    {
+      "id": 7,
+      "firstName": "Kurtis",
+      "lastName": "Weissnat",
+      "username": "Bret",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "+385145793",
+      "code": "56sa4d56sa4d",
+      "oib": "666666666666"
+    },
+    {
+      "id": 9,
+      "firstName": "Glenna",
+      "lastName": "Reichert",
+      "username": "Bret",
+      "email": "Chaim_McDermott@dana.io",
+      "phone": "+385146683",
+      "code": "fda45f56ad4",
+      "oib": "999999999999"
+    },
+    {
+      "id": 10,
+      "firstName": "Clementina",
+      "lastName": "DuBuque",
+      "username": "Bret",
+      "email": "Rey.Padberg@karina.biz",
+      "phone": "+385487793",
+      "code": "asda5dwad4",
+      "oib": "888888888888"
+    }
+  ]
+}
